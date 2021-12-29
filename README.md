@@ -16,6 +16,8 @@ $ git clone git@github.com:goby-lang/sample-web-app.git
 2. Open the project in any IDE Eg: VS CODE.
 3. Launch the application!
 
+![Sample App Image](./ToDo.png)
+
 ## LAUNCHING ROGER
 1. Cloning the project
 
