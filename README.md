@@ -6,6 +6,9 @@
 
 - Python (version 3.5 and above)
 
+## LINK TO THE WEB APP
+https://toodle-do-it.herokuapp.com/
+
 ## LAUNCHING TOODLE-DO
 
 1. Cloning the project
@@ -18,7 +21,7 @@ $ git clone git@github.com:goby-lang/sample-web-app.git
 
 ![Sample App Image](./ToDo.png)
 
-## LAUNCHING ROGER
+## LAUNCHING TOODLE-DO-IT
 1. Cloning the project
 
 ```
@@ -34,5 +37,3 @@ $ git clone git@github.com:goby-lang/sample-web-app.git
 Creators of TOODLE-DO
 
 - Samridhi Kapoor
-- Devyanshi Ahuja
-- Ekta
